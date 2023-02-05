@@ -18,6 +18,6 @@ User:
 Authorization - Bearer Token with admin or user privileges
 ```
 
-<br>
 <hr>
-Medium Article Link : Will be published very soon!
+<br>
+Medium Article Link: Will be published very soon!
